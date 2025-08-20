@@ -1,5 +1,5 @@
 # ADSA
-SEARCHING :-
+SEARCHING :- <br>
 LINEAR SEARCH : 
 BINARY SEARCH : https://leetcode.com/problems/binary-search/description/
 SORTING:-
