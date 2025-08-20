@@ -1,7 +1,7 @@
 # ADSA
 SEARCHING :- <br>
 LINEAR SEARCH : <br>
-BINARY SEARCH : https://leetcode.com/problems/binary-search/description/ <br>
+BINARY SEARCH : <br>
 SORTING:- <br>
 BUBBLE SORT : <br>
 INSERTION SORT : <br>
