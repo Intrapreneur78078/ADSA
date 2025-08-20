@@ -11,8 +11,8 @@ QUICK SORT : <br>
 COUNTING SORT : <br>
 RADIX SORT : <br>
 SHELL SORT : <br>
-BINARY TREES:-
-PREORDER : https://leetcode.com/problems/binary-tree-preorder-traversal/description/ <br>
+BINARY TREES:- <br>
+PREORDER : https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1736800121 <br>
 INORDER : https://leetcode.com/problems/binary-tree-inorder-traversal/description/ <br>
 POSTORDER : https://leetcode.com/problems/binary-tree-postorder-traversal/description/ <br>
 LEVEL ORDER : https://leetcode.com/problems/binary-tree-level-order-traversal/description/ <br>
