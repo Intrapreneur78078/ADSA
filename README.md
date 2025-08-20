@@ -1,1 +1,13 @@
 # ADSA
+SEARCHING :-
+LINEAR SEARCH : 
+BINARY SEARCH : (https://leetcode.com/problems/binary-search/description/)
+SORTING:-
+BUBBLE SORT
+INSERTION SORT
+SELECTION SORT
+MERGE SORT 
+QUICK SORT
+BINARY TREES:-
+BSTs:-
+AVL TREES:-
