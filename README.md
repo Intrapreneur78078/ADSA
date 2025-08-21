@@ -2,15 +2,7 @@
 SEARCHING :- <br>
 LINEAR SEARCH : <br>
 BINARY SEARCH : <br>
-SORTING:- <br>
-BUBBLE SORT : <br>
-INSERTION SORT : <br>
-SELECTION SORT : <br>
-MERGE SORT : <br>
-QUICK SORT : <br>
-COUNTING SORT : <br>
-RADIX SORT : <br>
-SHELL SORT : <br>
+SORTING:- sorting.cpp <br>
 BINARY TREES:- <br>
 PREORDER : https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1736800121 <br>
 INORDER : https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1736801244 <br>
