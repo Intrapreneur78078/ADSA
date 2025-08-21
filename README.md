@@ -13,7 +13,7 @@ CONSTRUCT USING POST AND IN : https://leetcode.com/problems/construct-binary-tre
 MAX DEPTH : https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1738283174 <br>
 BALANCED BT : https://leetcode.com/problems/balanced-binary-tree/submissions/1738300705 <br>
 BSTs:- <br>
-SEARCH :  <br>
+SEARCH : https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1737030437 <br>
 INSERT :  <br>
 AVL TREES:- avl.cpp <br>
 
