@@ -11,7 +11,7 @@ LEVEL ORDER : https://leetcode.com/problems/binary-tree-level-order-traversal/su
 CONSTRUCT USING PRE AND IN : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1742690582 <br>
 CONSTRUCT USING POST AND IN : https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/1742691731 <br>
 MAX DEPTH : https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1738283174 <br>
-BALANCED BT :  <br>
+BALANCED BT : https://leetcode.com/problems/balanced-binary-tree/submissions/1738300705 <br>
 BSTs:- <br>
 SEARCH :  <br>
 INSERT :  <br>
