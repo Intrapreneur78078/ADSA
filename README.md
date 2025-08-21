@@ -1,6 +1,5 @@
 # ADSA
 SEARCHING :- <br>
-LINEAR SEARCH : <br>
 BINARY SEARCH : https://leetcode.com/problems/binary-search/submissions/1738304851 <br>
 SORTING:- sorting.cpp <br>
 BINARY TREES:- <br>
