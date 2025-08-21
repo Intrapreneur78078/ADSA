@@ -14,6 +14,6 @@ MAX DEPTH : https://leetcode.com/problems/maximum-depth-of-binary-tree/submissio
 BALANCED BT : https://leetcode.com/problems/balanced-binary-tree/submissions/1738300705 <br>
 BSTs:- <br>
 SEARCH : https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1737030437 <br>
-INSERT :  <br>
+INSERT : https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1738158846 <br>
 AVL TREES:- avl.cpp <br>
 
