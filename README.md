@@ -1,7 +1,7 @@
 # ADSA
 SEARCHING :- <br>
 BINARY SEARCH : https://leetcode.com/problems/binary-search/submissions/1738304851 <br>
-- **SORTING:-** [Code](./sorting.cpp)
+SORTING:-[Code](./sorting.cpp) <br>
 BINARY TREES:- <br>
 PREORDER : https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1736800121 <br>
 INORDER : https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1736801244 <br>
@@ -14,5 +14,5 @@ BALANCED BT : https://leetcode.com/problems/balanced-binary-tree/submissions/173
 BSTs:- <br>
 SEARCH : https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1737030437 <br>
 INSERT : https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1738158846 <br>
-AVL TREES:- avl.cpp <br>
+AVL TREES:- [Code](./avl.cpp) <br>
 
