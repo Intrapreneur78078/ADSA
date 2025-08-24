@@ -161,7 +161,31 @@ void heapSort(int arr[], int n) {
         heapify(arr, i, 0);
     }
 }
-//REMAINING : Counting,Radix,Shell,Bucket...
+//Count Sort
+// non comparison based sort
+// tc :o(n+k), sc :o(k+1), k : max elmt
+// not in place, not stable
+void countingSort(int arr[], int n) {
+    //max value
+    int maxVal = arr[0];
+    for (int i = 1; i < n; ++i) {
+        if (arr[i] > maxVal)
+            maxVal = arr[i];
+    // count array
+    int* count = new int[maxVal + 1]();
+    for (int i = 0; i < n; ++i) {
+        count[arr[i]]++;
+    }
+    // main process
+    int index = 0;
+    for (int i = 0; i <= maxVal; ++i) {
+        while (count[i]-- > 0) {
+            arr[index++] = i;
+        }
+    }
+    delete[] count;
+}
+//REMAINING : Radix,Shell,Bucket...
 
 int main(){
     int arr[]={2,41,2,12,41,2,35,62,742,31};
@@ -179,4 +203,5 @@ int main(){
         cout << arr[i] << " ";
     }
     return 0;
+
 }
