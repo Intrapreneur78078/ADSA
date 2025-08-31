@@ -185,7 +185,36 @@ void countingSort(int arr[], int n) {
     }
     delete[] count;
 }
-//REMAINING : Radix,Shell,Bucket...
+//Shell Sort
+// like insertion sort with with bigger gaps
+// here gap=n/2 then decrease, in insertion gap=1 always
+// best:nlogn, avg:n^3/2, worst:n^2
+// space : const, inplace
+// not stable
+void shellSort(vector<int>& arr) {
+    int n = arr.size();
+    
+    // Start with a big gap, then reduce it
+    for (int gap = n / 2; gap > 0; gap /= 2) {
+
+        // Perform gapped insertion sort
+        for (int i = gap; i < n; i++) {
+            int temp = arr[i];
+            int j = i;
+
+            // Shift earlier gap-sorted elements up until the correct location is found
+            while (j >= gap && arr[j - gap] > temp) {
+                arr[j] = arr[j - gap];
+                j -= gap;
+            }
+
+            // Place temp at its correct location
+            arr[j] = temp;
+        }
+    }
+}
+
+//REMAINING : Radix,Bucket...
 
 int main(){
     int arr[]={2,41,2,12,41,2,35,62,742,31};
@@ -205,3 +234,4 @@ int main(){
     return 0;
 
 }
+
